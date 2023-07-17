@@ -12,7 +12,7 @@ public class Divisionwithoutdivope {
         div=num1+num2;
         while(div>num2){
             div=div-num2;
-            result++;
+            result+++;
 
         }
         System.out.println("Division of "+num1+" and "+num2+":"+result);
